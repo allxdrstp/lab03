@@ -15,7 +15,6 @@ compilation terminated.
 alexandra@alexandra-virtual-machine:~/allxdrstp/workspace/projects/lab03$ g++ -std=c++11 -I./include -c sources/print.cpp
 cc1plus: fatal error: sources/print.cpp: Нет такого файла или каталога
 compilation terminated.
-alexandra@alexandra-virtual-machine:~/allxdrstp/workspace/projects/lab03$ ^C
 alexandra@alexandra-virtual-machine:~/allxdrstp/workspace/projects/lab03$ pwd
 /home/alexandra/allxdrstp/workspace/projects/lab03
 alexandra@alexandra-virtual-machine:~/allxdrstp/workspace/projects/lab03$ g++ -std=c++11 -I./include -c src/sources/print.cpp
