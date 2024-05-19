@@ -1,3 +1,4 @@
+```ruby
 alexandra@alexandra-virtual-machine:~$ export GITHUB_USERNAME=allxdrstp
 alexandra@alexandra-virtual-machine:~$ cd ${GITHUB_USERNAME}/workspace
 alexandra@alexandra-virtual-machine:~/allxdrstp/workspace$ pushd .
@@ -363,3 +364,4 @@ alexandra@alexandra-virtual-machine:~/allxdrstp/workspace$ cp tasks/lab${LAB_NUM
 alexandra@alexandra-virtual-machine:~/allxdrstp/workspace$ cd reports/lab${LAB_NUMBER}
 alexandra@alexandra-virtual-machine:~/allxdrstp/workspace/reports/lab03$ gist REPORT.md
 Error: Got Net::HTTPUnauthorized from gist: {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+```
